@@ -9,6 +9,14 @@ BIOINFORMATICS LAB ACTIVITY - Exploring a Human Disease Gene Using UCSC Genome B
 
 ## Part B. UCSC Gene Location
 
+**Official gene symbol:** TYR  
+**Full gene name:** Tyrosinase  
+**Chromosome:** 11  
+**Genome assembly:** GRCh38/hg38  
+**Genomic coordinates:** chr11:89,177,875-89,295,759  
+**DNA strand:** +  
+**Approximate gene size:** 117,885 bp (~118 kb)
+
 ## Part C. Exons, Introns, and Transcripts
 
 ## Part D. UCSC Annotation Tracks
