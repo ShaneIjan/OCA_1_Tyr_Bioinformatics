@@ -19,6 +19,15 @@ BIOINFORMATICS LAB ACTIVITY - Exploring a Human Disease Gene Using UCSC Genome B
 
 ## Part C. Exons, Introns, and Transcripts
 
+**Selected transcript:** NM_000372.5
+
+| Parameter | Observation |
+|---|---|
+| Number of exons identified | 5 exons |
+| Multiple transcripts/isoforms visible | No multiple isoforms were clearly visible in the selected NCBI RefSeq track. The TYR gene was also displayed in GENCODE and MANE annotation tracks. |
+| Difference between an exon and an intron | Exons are regions that remain in the mature RNA after splicing, while introns are intervening sequences that are removed during RNA processing. |
+| Relative length of introns and exons | The introns generally appeared much longer than the exons. The exons appeared as small boxes separated by long connecting intron regions. |
+
 ## Part D. UCSC Annotation Tracks
 
 ## Part E. Selected ClinVar Variant
