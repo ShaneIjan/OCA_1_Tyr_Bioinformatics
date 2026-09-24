@@ -42,6 +42,9 @@ Yes. The 100 Vertebrates Conservation by PhyloP track showed different levels of
 **d. Location of conserved regions:**  
 The stronger conservation signals appeared mainly around some exonic regions, although conservation was also observed in some intronic or other non-coding regions.
 
+**e. Why strong conservation can suggest biological importance:**  
+Strong conservation suggests that a DNA region has remained similar across different species over time. This may indicate biological importance because important functional regions are often preserved by evolution, while changes in these regions may be less tolerated.
+
 ## Part E. Selected ClinVar Variant
 
 ## Part F. Locating the Variant in UCSC
