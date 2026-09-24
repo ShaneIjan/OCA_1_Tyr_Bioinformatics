@@ -33,4 +33,11 @@ Figure 3 shows the human TYR gene together with the 100 Vertebrates Conservation
 
 The image shows the ClinVar record for the *TYR* variant NM_000372.5:c.832C>T (p.Arg278Ter). The record classifies the variant as Pathogenic and identifies it with Variation ID 99583 and VCV000099583.45. Its GRCh38 genomic position is shown at chromosome 11:89,191,214, and the molecular consequence is reported as a nonsense variant.
 
+## Screenshot 5: Selected TYR Variant in UCSC
+
+![TYR variant in UCSC](05_variant_in_ucsc.png)
+
+**Figure 5.** UCSC Genome Browser view of the selected TYR c.832C>T (p.Arg278Ter) variant at chromosome 11:89,191,214 on the GRCh38/hg38 assembly.
+
+Figure 5 shows the selected genomic region together with the NCBI RefSeq and MANE Select *TYR* gene models. The coding region around amino acid position R278 is visible, along with the ClinVar variant and interpretation tracks.
 
