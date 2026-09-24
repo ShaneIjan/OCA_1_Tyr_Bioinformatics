@@ -58,8 +58,25 @@ Strong conservation suggests that a DNA region has remained similar across diffe
 | **g. Review status, if shown** | Criteria provided, multiple submitters, no conflicts |
 | **h. ClinVar record URL** | https://www.ncbi.nlm.nih.gov/clinvar/variation/99583/ |
 
-## Part F. Locating the Variant in UCSC
+## Part F. Variant Location and Interpretation
+
+**a. Where is the variant located relative to your gene?**  
+The variant is located within the TYR gene region on chromosome 11 at GRCh38 position 89,191,214.
+
+**b. Is it in an exon, intron, UTR, splice region, or another region?**  
+The variant is located in a coding exon of the *TYR* gene, within the region shown for the selected NM_000372.5 transcript.
+
+**c. Is it likely in a coding or non-coding region based on the displayed annotations?**  
+It is likely located in a coding region because the variant overlaps the coding portion of the *TYR* transcript and is associated with the protein change p.Arg278Ter.
+
+**d. Based on its location and ClinVar information, briefly explain how the variant might affect the gene or gene product.**  
+ClinVar classifies the variant as Pathogenic and identifies it as a nonsense variant. The c.832C>T change produces the p.Arg278Ter change, which introduces a premature stop codon and may result in a shortened or altered tyrosinase protein.
+
+**e. What additional evidence would be needed before concluding that the variant causes disease?**  
+Additional evidence would include functional studies, genetic or segregation studies, population-frequency data, and independent clinical evidence. A recent study by Lv et al. (2025) evaluated TYR variants using protein expression, melanin production, enzyme activity, and subcellular localization assays and showed that functional testing can provide evidence for determining the pathogenicity of TYR variants. Therefore, functional evidence together with genetic and clinical data would strengthen the conclusion that a variant causes OCA1.
 
 ## Part G. Reflection
 
 ## References and Links
+
+Lv, S., Hao, Z., Li, W., & Wei, A. (2025). Multiplexed assays of variant effect and reclassification of TYR variants in Chinese patients with oculocutaneous albinism. *Journal of Investigative Dermatology, 145*(11), 2798–2810.e5. https://doi.org/10.1016/j.jid.2025.03.038
