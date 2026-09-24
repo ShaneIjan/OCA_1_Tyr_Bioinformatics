@@ -47,6 +47,17 @@ Strong conservation suggests that a DNA region has remained similar across diffe
 
 ## Part E. Selected ClinVar Variant
 
+| Item | Information |
+|---|---|
+| **a. Gene** | TYR |
+| **b. Variant name/HGVS description** | NM_000372.5(TYR):c.832C>T (p.Arg278Ter) |
+| **c. rsID or ClinVar Variation ID/VCV accession** | rs62645904; Variation ID: 99583; VCV000099583.45 |
+| **d. Chromosome and genomic position** | Chromosome 11; GRCh38: chr11:89,191,214; cytogenetic location: 11q14.3 |
+| **e. Associated condition/disease** | Oculocutaneous albinism type 1A (OCA1A) |
+| **f. Clinical significance exactly as reported by ClinVar** | Pathogenic |
+| **g. Review status, if shown** | Criteria provided, multiple submitters, no conflicts |
+| **h. ClinVar record URL** | https://www.ncbi.nlm.nih.gov/clinvar/variation/99583/ |
+
 ## Part F. Locating the Variant in UCSC
 
 ## Part G. Reflection
