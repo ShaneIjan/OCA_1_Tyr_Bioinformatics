@@ -25,4 +25,12 @@ The exon–intron structure of the human TYR gene is illustrated in this image. 
 
 Figure 3 shows the human TYR gene together with the 100 Vertebrates Conservation by PhyloP track, specifically displayed under “Cons 100 Verts.” The varying conservation peaks indicate that some regions of the TYR genomic region are more strongly conserved across species than others.
 
+## Screenshot 4: ClinVar Variant Record
+
+![TYR ClinVar variant](04_clinvar_variant.png)
+
+**Figure 4.** ClinVar record of the pathogenic TYR c.832C>T (p.Arg278Ter) variant.
+
+The image shows the ClinVar record for the *TYR* variant NM_000372.5:c.832C>T (p.Arg278Ter). The record classifies the variant as Pathogenic and identifies it with Variation ID 99583 and VCV000099583.45. Its GRCh38 genomic position is shown at chromosome 11:89,191,214, and the molecular consequence is reported as a nonsense variant.
+
 
