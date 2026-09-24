@@ -77,6 +77,26 @@ Additional evidence would include functional studies, genetic or segregation stu
 
 ## Part G. Reflection
 
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+UCSC showed me that the TYR gene covers a relatively large genomic region and contains exons separated by much longer introns. It also allowed me to see the gene structure directly through the transcript models instead of only reading about tyrosinase and its function. The conservation track showed that different parts of the gene have different levels of conservation across vertebrates. ClinVar tracks also showed that disease-associated variants can be viewed directly in relation to the gene.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location helps determine where the variant occurs relative to the gene and its functional regions. It can show whether the variant is located in an exon, intron, UTR, or other region and whether it overlaps a coding sequence. In this activity, locating the TYR variant at chr11:89,191,214 allowed me to examine it together with the *TYR* gene model and ClinVar annotations. This makes it easier to connect the variant with its reported molecular consequence and disease association.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+One limitation is that the genomic location alone cannot show whether a variant actually affects gene or protein function. For example, a variant located in an exon may change the protein, but its actual biological effect still needs to be supported by additional evidence. Functional studies, population data, genetic evidence, and clinical observations can provide more information about whether the variant is disease-causing.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature I observed was being able to see the entire TYR gene and its organization through the UCSC Genome Browser. It was amazing to see the exons, introns, conservation regions, and disease-associated variants all displayed within the same genomic view. Seeing the gene this way made me appreciate how much information can be obtained from a single genomic region beyond simply knowing its function. It also made me appreciate the work of the scientists and developers who created tools like UCSC, because it allows us to visualize and study the genome in such a detailed and meaningful way.
+
 ## References and Links
 
-Lv, S., Hao, Z., Li, W., & Wei, A. (2025). Multiplexed assays of variant effect and reclassification of TYR variants in Chinese patients with oculocutaneous albinism. *Journal of Investigative Dermatology, 145*(11), 2798–2810.e5. https://doi.org/10.1016/j.jid.2025.03.038
+National Center for Biotechnology Information. (n.d.). ClinVar. National Library of Medicine. https://www.ncbi.nlm.nih.gov/clinvar/
+
+University of California, Santa Cruz. (n.d.). UCSC Genome Browser. https://genome.ucsc.edu/
+
+Lv, S., Hao, Z., Li, W., & Wei, A. (2025). Multiplexed assays of variant effect and reclassification of TYR variants in Chinese patients with oculocutaneous albinism. Journal of Investigative Dermatology, 145(11), 2798–2810.e5. https://doi.org/10.1016/j.jid.2025.03.038
